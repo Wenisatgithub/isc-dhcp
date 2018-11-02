@@ -1,0 +1,912 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.2.5
+
+lease 10.74.97.117 {
+  starts 4 2018/11/01 05:49:50;
+  ends 4 2018/11/01 05:51:50;
+  cltt 4 2018/11/01 05:49:50;
+  binding state free;
+  hardware ethernet cc:5a:53:5f:c3:f1;
+  uid "\001\314ZS_\303\361";
+  client-hostname "SEPCC5A535FC3F1";
+}
+lease 10.74.97.116 {
+  starts 4 2018/11/01 06:48:49;
+  ends 4 2018/11/01 06:53:49;
+  tstp 4 2018/11/01 06:53:49;
+  cltt 4 2018/11/01 06:48:49;
+  binding state free;
+  hardware ethernet 54:ee:75:ce:dd:6e;
+  uid "\001T\356u\316\335n";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:02:25;
+  ends 5 2018/11/02 02:07:25;
+  cltt 5 2018/11/02 02:02:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:02:42;
+  ends 5 2018/11/02 02:07:42;
+  cltt 5 2018/11/02 02:02:42;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:03:33;
+  ends 5 2018/11/02 02:08:33;
+  cltt 5 2018/11/02 02:03:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:04:42;
+  ends 5 2018/11/02 02:09:42;
+  cltt 5 2018/11/02 02:04:42;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+server-duid "\000\001\000\001#l\013\233\000PV\245\350M";
+
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:04:55;
+  ends 5 2018/11/02 02:09:55;
+  cltt 5 2018/11/02 02:04:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:05:13;
+  ends 5 2018/11/02 02:10:13;
+  cltt 5 2018/11/02 02:05:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:06:06;
+  ends 5 2018/11/02 02:11:06;
+  cltt 5 2018/11/02 02:06:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:07:13;
+  ends 5 2018/11/02 02:12:13;
+  cltt 5 2018/11/02 02:07:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:07:26;
+  ends 5 2018/11/02 02:12:26;
+  cltt 5 2018/11/02 02:07:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:07:44;
+  ends 5 2018/11/02 02:12:44;
+  cltt 5 2018/11/02 02:07:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:08:38;
+  ends 5 2018/11/02 02:13:38;
+  cltt 5 2018/11/02 02:08:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:09:44;
+  ends 5 2018/11/02 02:14:44;
+  cltt 5 2018/11/02 02:09:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:09:56;
+  ends 5 2018/11/02 02:14:56;
+  cltt 5 2018/11/02 02:09:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:10:15;
+  ends 5 2018/11/02 02:15:15;
+  cltt 5 2018/11/02 02:10:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:11:11;
+  ends 5 2018/11/02 02:16:11;
+  cltt 5 2018/11/02 02:11:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:12:15;
+  ends 5 2018/11/02 02:17:15;
+  cltt 5 2018/11/02 02:12:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:12:26;
+  ends 5 2018/11/02 02:17:26;
+  cltt 5 2018/11/02 02:12:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:12:46;
+  ends 5 2018/11/02 02:17:46;
+  cltt 5 2018/11/02 02:12:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:13:43;
+  ends 5 2018/11/02 02:18:43;
+  cltt 5 2018/11/02 02:13:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:14:46;
+  ends 5 2018/11/02 02:19:46;
+  cltt 5 2018/11/02 02:14:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:14:56;
+  ends 5 2018/11/02 02:19:56;
+  cltt 5 2018/11/02 02:14:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:15:17;
+  ends 5 2018/11/02 02:20:17;
+  cltt 5 2018/11/02 02:15:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:16:16;
+  ends 5 2018/11/02 02:21:16;
+  cltt 5 2018/11/02 02:16:16;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:17:18;
+  ends 5 2018/11/02 02:22:18;
+  cltt 5 2018/11/02 02:17:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:17:26;
+  ends 5 2018/11/02 02:22:26;
+  cltt 5 2018/11/02 02:17:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:17:48;
+  ends 5 2018/11/02 02:22:48;
+  cltt 5 2018/11/02 02:17:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:18:49;
+  ends 5 2018/11/02 02:23:49;
+  cltt 5 2018/11/02 02:18:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+  client-hostname "SEPAC44F2123FAE";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:19:49;
+  ends 5 2018/11/02 02:24:49;
+  cltt 5 2018/11/02 02:19:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:19:56;
+  ends 5 2018/11/02 02:24:56;
+  cltt 5 2018/11/02 02:19:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:20:19;
+  ends 5 2018/11/02 02:25:19;
+  cltt 5 2018/11/02 02:20:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:22:20;
+  ends 5 2018/11/02 02:27:20;
+  cltt 5 2018/11/02 02:22:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:22:26;
+  ends 5 2018/11/02 02:27:26;
+  cltt 5 2018/11/02 02:22:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:22:50;
+  ends 5 2018/11/02 02:27:50;
+  cltt 5 2018/11/02 02:22:50;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.115 {
+  starts 5 2018/11/02 02:18:49;
+  ends 5 2018/11/02 02:23:49;
+  tstp 5 2018/11/02 02:23:49;
+  cltt 5 2018/11/02 02:18:49;
+  binding state free;
+  hardware ethernet ac:44:f2:12:3f:ae;
+  uid "\001\254D\362\022?\256";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:24:51;
+  ends 5 2018/11/02 02:29:51;
+  cltt 5 2018/11/02 02:24:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:24:56;
+  ends 5 2018/11/02 02:29:56;
+  cltt 5 2018/11/02 02:24:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:25:21;
+  ends 5 2018/11/02 02:30:21;
+  cltt 5 2018/11/02 02:25:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:27:22;
+  ends 5 2018/11/02 02:32:22;
+  cltt 5 2018/11/02 02:27:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:27:26;
+  ends 5 2018/11/02 02:32:26;
+  cltt 5 2018/11/02 02:27:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:27:52;
+  ends 5 2018/11/02 02:32:52;
+  cltt 5 2018/11/02 02:27:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:29:53;
+  ends 5 2018/11/02 02:34:53;
+  cltt 5 2018/11/02 02:29:53;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:29:56;
+  ends 5 2018/11/02 02:34:56;
+  cltt 5 2018/11/02 02:29:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:30:23;
+  ends 5 2018/11/02 02:35:23;
+  cltt 5 2018/11/02 02:30:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:32:24;
+  ends 5 2018/11/02 02:37:24;
+  cltt 5 2018/11/02 02:32:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:32:26;
+  ends 5 2018/11/02 02:37:26;
+  cltt 5 2018/11/02 02:32:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:32:54;
+  ends 5 2018/11/02 02:37:54;
+  cltt 5 2018/11/02 02:32:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:34:55;
+  ends 5 2018/11/02 02:39:55;
+  cltt 5 2018/11/02 02:34:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:34:56;
+  ends 5 2018/11/02 02:39:56;
+  cltt 5 2018/11/02 02:34:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:35:25;
+  ends 5 2018/11/02 02:40:25;
+  cltt 5 2018/11/02 02:35:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:37:26;
+  ends 5 2018/11/02 02:42:26;
+  cltt 5 2018/11/02 02:37:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:37:26;
+  ends 5 2018/11/02 02:42:26;
+  cltt 5 2018/11/02 02:37:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:37:57;
+  ends 5 2018/11/02 02:42:57;
+  cltt 5 2018/11/02 02:37:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:39:56;
+  ends 5 2018/11/02 02:44:56;
+  cltt 5 2018/11/02 02:39:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:39:58;
+  ends 5 2018/11/02 02:44:58;
+  cltt 5 2018/11/02 02:39:58;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:40:28;
+  ends 5 2018/11/02 02:45:28;
+  cltt 5 2018/11/02 02:40:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:42:26;
+  ends 5 2018/11/02 02:47:26;
+  cltt 5 2018/11/02 02:42:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:42:29;
+  ends 5 2018/11/02 02:47:29;
+  cltt 5 2018/11/02 02:42:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:42:59;
+  ends 5 2018/11/02 02:47:59;
+  cltt 5 2018/11/02 02:42:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:44:56;
+  ends 5 2018/11/02 02:49:56;
+  cltt 5 2018/11/02 02:44:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:45:00;
+  ends 5 2018/11/02 02:50:00;
+  cltt 5 2018/11/02 02:45:00;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:45:30;
+  ends 5 2018/11/02 02:50:30;
+  cltt 5 2018/11/02 02:45:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:47:26;
+  ends 5 2018/11/02 02:52:26;
+  cltt 5 2018/11/02 02:47:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:47:31;
+  ends 5 2018/11/02 02:52:31;
+  cltt 5 2018/11/02 02:47:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:48:01;
+  ends 5 2018/11/02 02:53:01;
+  cltt 5 2018/11/02 02:48:01;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:49:56;
+  ends 5 2018/11/02 02:54:56;
+  cltt 5 2018/11/02 02:49:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:50:02;
+  ends 5 2018/11/02 02:55:02;
+  cltt 5 2018/11/02 02:50:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:50:32;
+  ends 5 2018/11/02 02:55:32;
+  cltt 5 2018/11/02 02:50:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:52:26;
+  ends 5 2018/11/02 02:57:26;
+  cltt 5 2018/11/02 02:52:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:52:33;
+  ends 5 2018/11/02 02:57:33;
+  cltt 5 2018/11/02 02:52:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:53:03;
+  ends 5 2018/11/02 02:58:03;
+  cltt 5 2018/11/02 02:53:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.117 {
+  starts 5 2018/11/02 02:54:41;
+  ends 5 2018/11/02 02:59:41;
+  cltt 5 2018/11/02 02:54:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:57:ad:3e:b3:e8;
+  uid "\001\234W\255>\263\350";
+  client-hostname "SEP9C57AD3EB3E8";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:54:56;
+  ends 5 2018/11/02 02:59:56;
+  cltt 5 2018/11/02 02:54:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:55:04;
+  ends 5 2018/11/02 03:00:04;
+  cltt 5 2018/11/02 02:55:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:55:34;
+  ends 5 2018/11/02 03:00:34;
+  cltt 5 2018/11/02 02:55:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.117 {
+  starts 5 2018/11/02 02:57:09;
+  ends 5 2018/11/02 03:02:09;
+  cltt 5 2018/11/02 02:57:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:57:ad:3e:b3:e8;
+  uid "\001\234W\255>\263\350";
+  client-hostname "SEP9C57AD3EB3E8";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:57:26;
+  ends 5 2018/11/02 03:02:26;
+  cltt 5 2018/11/02 02:57:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 02:57:35;
+  ends 5 2018/11/02 03:02:35;
+  cltt 5 2018/11/02 02:57:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
+lease 10.74.97.114 {
+  starts 5 2018/11/02 02:58:05;
+  ends 5 2018/11/02 03:03:05;
+  cltt 5 2018/11/02 02:58:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:41:6a:36:90:0c;
+  uid "\001lAj6\220\014";
+  client-hostname "SEP6C416A36900C";
+}
+lease 10.74.97.117 {
+  starts 5 2018/11/02 02:59:39;
+  ends 5 2018/11/02 03:04:39;
+  cltt 5 2018/11/02 02:59:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:57:ad:3e:b3:e8;
+  uid "\001\234W\255>\263\350";
+  client-hostname "SEP9C57AD3EB3E8";
+}
+lease 10.74.97.118 {
+  starts 5 2018/11/02 02:59:56;
+  ends 5 2018/11/02 03:04:56;
+  cltt 5 2018/11/02 02:59:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 9c:af:ca:84:48:c6;
+  uid "\001\234\257\312\204H\306";
+  client-hostname "SEP9CAFCA8448C6";
+}
+lease 10.74.97.119 {
+  starts 5 2018/11/02 03:00:07;
+  ends 5 2018/11/02 03:05:07;
+  cltt 5 2018/11/02 03:00:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 6c:99:89:84:b5:97;
+  uid "\001l\231\211\204\265\227";
+  client-hostname "SEP6C998984B597";
+}
